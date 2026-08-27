@@ -13,3 +13,10 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W
 
 ---
+
+## Problem 3: Palindrome Array
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
+
+---
