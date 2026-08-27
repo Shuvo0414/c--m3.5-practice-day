@@ -20,3 +20,10 @@ Link:
 https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G
 
 ---
+
+## Problem 4: Smallest Pair
+
+Link:
+https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I
+
+---
